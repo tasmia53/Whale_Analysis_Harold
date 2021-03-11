@@ -1,4 +1,4 @@
-# A Whale Off the Port(folio)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tasmia53/A-Whale-Off-the-Port-folio-/HEAD)
+# A Whale Off the Port(folio)
 
 ![Portfolio Analysis](Images/portfolio-analysis.png)
 
